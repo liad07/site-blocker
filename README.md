@@ -1,3 +1,7 @@
+you can generate in set page and copy ths text and replace   
+
+
+after you download add this to chrome addon on developer mode
 ```javascript
 //site to block
 var arr=["https://www.google.co.il/"];
