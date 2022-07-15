@@ -13,5 +13,6 @@ for (let i = 0; i < arr.length; i++) {
     }
 
 }
+```
 194 of the 365 chalenge in 2022 1 day 1 challenge
 
